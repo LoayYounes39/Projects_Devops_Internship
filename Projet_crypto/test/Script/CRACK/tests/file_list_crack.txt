@@ -1,2 +1,0 @@
-miseAuPoint.txt
-msg2.txt
